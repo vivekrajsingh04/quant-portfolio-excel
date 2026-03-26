@@ -45,10 +45,10 @@ This project demonstrates **quantitative finance concepts** using a single Excel
 ## 📸 Screenshots
 
 ### Bollinger Bands — NIFTY 50
-![Bollinger Bands — NIFTY 50 with ±2 Std Dev Bands](images/bollinger_bands.svg)
+![Bollinger Bands — NIFTY 50 with ±2 Std Dev Bands](images/bollinger_bands.svg?v=2)
 
 ### Efficient Frontier — Portfolio Return vs. Risk
-![Efficient Frontier — Portfolio Return vs STD Dev](images/efficient_frontier.svg)
+![Efficient Frontier — Portfolio Return vs STD Dev](images/efficient_frontier.svg?v=2)
 
 ---
 
