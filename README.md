@@ -110,7 +110,7 @@ quant-portfolio-excel/
 
 ## 👤 Author
 
-**Yash**
+**Vivek**
 
 ---
 
